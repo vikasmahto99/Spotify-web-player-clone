@@ -8,12 +8,12 @@ Search Page: A static search page to mimic the search functionality.
 Responsive Design: Adjusts layout for different screen sizes.
 Technologies Used
 HTML5: Structure of the web pages.
-CSS3: Styling of the web pages, including layout, colors, fonts, and responsiveness.
+CSS3: Styling of the web pages, including layout, colours, fonts, and responsiveness.
 Getting Started
 Prerequisites
 To run this project, you need a web browser (like Chrome, Firefox, Safari) installed on your computer.
 Changing Styles
-styles.css: Contains the main styles for the website. Modify this file to change colors, fonts, and layouts.
+styles.css: Contains the main styles for the website. Modify this file to change colours, fonts, and layouts.
 responsive.css: Contains media queries for responsive design. Modify this file to adjust styles for different screen sizes.
 Adding New Pages
 Create a new HTML file in the root directory.
